@@ -1,0 +1,7 @@
+*.log
+*.jou
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+FIFO.sim/
